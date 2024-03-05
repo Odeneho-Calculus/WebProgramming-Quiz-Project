@@ -1,0 +1,361 @@
+[
+    
+    
+    {
+        "question": "Which of the following HTML tag is the special formatting tag?",
+        "options": [
+            {"option": "a", "text": "<p>"},
+            {"option": "b", "text": "<b>"},
+            {"option": "c", "text": "<pre>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The HTML <pre> tag is used to specify pre-formatted texts. Texts within <pre>…</pre> tags are displayed in a fixed-width font, typically courier, and maintain both line breaks and spaces.",
+        "description_incorrect": "That's wrong. The <pre> tag is used for special formatting in HTML."
+    },
+    {
+        "question": "Which of the following is the correct way to send mail in HTML?",
+        "options": [
+            {"option": "a", "text": "<a href = \"mailto: xy@y\">"},
+            {"option": "b", "text": "<a href = \"xy@y\">"},
+            {"option": "c", "text": "<mail xy@y</mail>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! To create a mailto link in HTML, you can use the <a> (anchor tag) with the href attribute set to \"mailto:\" followed by the email address.",
+        "description_incorrect": "That's wrong. The correct way to create a mailto link in HTML is using the <a> tag with the href attribute set to \"mailto:\" followed by the email address."
+    },
+    {
+        "question": "Which of the following is the container for <tr>, <th>, and <td>?",
+        "options": [
+            {"option": "a", "text": "<data>"},
+            {"option": "b", "text": "<table>"},
+            {"option": "c", "text": "<group>"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <table> tag in HTML is used to display data in a tabular format and serves as the container for <tr>, <th>, and <td> elements.",
+        "description_incorrect": "That's wrong. The <table> tag is the container for rows (<tr>), header cells (<th>), and data cells (<td>) in HTML tables."
+    },
+    {
+        "question": "How to insert a background image in HTML?",
+        "options": [
+            {"option": "a", "text": "<body background = \"img.png\">"},
+            {"option": "b", "text": "<img background = \"img.png\">"},
+            {"option": "c", "text": "<bg-image = \"img.png\">"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! To insert a background image for the entire HTML document, you can use the <body> tag with the background attribute set to the image file's path.",
+        "description_incorrect": "That's wrong. To set a background image in HTML, you should use the <body> tag with the background attribute as shown: <body background=\"img.png\">."
+    },
+    {
+        "question": "What are the types of unordered or bulleted list in HTML?",
+        "options": [
+            {"option": "a", "text": "disc, square, triangle"},
+            {"option": "b", "text": "polygon, triangle, circle"},
+            {"option": "c", "text": "disc, circle, square"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The types of unordered or bulleted lists in HTML are disc, circle, and square.",
+        "description_incorrect": "That's wrong. The correct types of unordered or bulleted lists in HTML are disc, circle, and square."
+    },
+    {
+        "question": "Which of the following is the correct way to create a list using lowercase letters?",
+        "options": [
+            {"option": "a", "text": "<ol type = \"a\">"},
+            {"option": "b", "text": "<ol type = \"1\">"},
+            {"option": "c", "text": "<ol letter = \"a\">"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! To create an ordered list (numbered list) using lowercase letters, you should use the <ol> tag with the type attribute set to \"1\".",
+        "description_incorrect": "That's wrong. The correct way to create a numbered list using lowercase letters is by using the <ol> tag with the type attribute set to \"1\"."
+    },
+    {
+        "question": "Which of the following is the correct way to start an ordered list with the count of numeric value 4?",
+        "options": [
+            {"option": "a", "text": "<ol type = \"1\" initial = \"4\">"},
+            {"option": "b", "text": "<ol type = \"1\" begin = \"4\">"},
+            {"option": "c", "text": "<ol type = \"1\" num = \"4\">"},
+            {"option": "d", "text": "<ol type = \"1\" start = \"4\">"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! To start an ordered list with a specific numeric value (in this case, 4), you can use the <ol> tag with the start attribute set to \"4\".",
+        "description_incorrect": "That's wrong. To start an ordered list with a specific numeric value, you should use the <ol> tag with the start attribute as shown: <ol type=\"1\" start=\"4\">."
+    },
+    {
+        "question": "Which of the following HTML attribute is used to define inline styles?",
+        "options": [
+            {"option": "a", "text": "style"},
+            {"option": "b", "text": "type"},
+            {"option": "c", "text": "class"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The style attribute in HTML is used to change the style of existing HTML elements and apply inline styles.",
+        "description_incorrect": "That's wrong. The style attribute in HTML is used to define inline styles for elements."
+    },
+    {
+        "question": "Which of the following is the paragraph tag in HTML?",
+        "options": [
+            {"option": "a", "text": "<p>"},
+            {"option": "b", "text": "<b>"},
+            {"option": "c", "text": "<pre>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <p> (paragraph tag) tag in HTML is used to define a paragraph in a webpage. It indicates the starting of a new paragraph.",
+        "description_incorrect": "That's wrong. The <p> tag is the paragraph tag in HTML."
+    },
+    {
+        "question": "An HTML program is saved by using the ____ extension.",
+        "options": [
+            {"option": "a", "text": ".ht"},
+            {"option": "b", "text": ".html"},
+            {"option": "c", "text": ".hml"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! An HTML program is typically saved with the .html or .htm extension.",
+        "description_incorrect": "That's wrong. HTML programs are usually saved with the .html or .htm extension."
+    },
+    {
+        "question": "A program in HTML can be rendered and read by -",
+        "options": [
+            {"option": "a", "text": "Web browser"},
+            {"option": "b", "text": "Server"},
+            {"option": "c", "text": "Interpreter"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! HTML programs can be rendered and read by web browsers. Web browsers interpret HTML and display web pages accordingly.",
+        "description_incorrect": "That's wrong. HTML programs are rendered and read by web browsers, not servers or interpreters."
+    },
+    {
+        "question": "The tags in HTML are -",
+        "options": [
+            {"option": "a", "text": "case-sensitive"},
+            {"option": "b", "text": "in upper case"},
+            {"option": "c", "text": "not case sensitive"},
+            {"option": "d", "text": "in lowercase"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! HTML tags are not case-sensitive, meaning they can be used in either uppercase or lowercase.",
+        "description_incorrect": "That's wrong. HTML tags are not case-sensitive, so they can be used in either uppercase or lowercase."
+    },
+    {
+        "question": "Which of the following is the root tag of the HTML document?",
+        "options": [
+            {"option": "a", "text": "<body>"},
+            {"option": "b", "text": "<head>"},
+            {"option": "c", "text": "<title>"},
+            {"option": "d", "text": "<html>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The <html> tag represents the root of an HTML document and is called the root element. It contains other elements like <head>, <body>, and more.",
+        "description_incorrect": "That's wrong. The <html> tag is the root of an HTML document, containing other elements like <head>, <body>, and more."
+    },
+    {
+        "question": "In HTML5, which of the following tag is used to initialize the document type?",
+        "options": [
+            {"option": "a", "text": "<Doctype HTML>"},
+            {"option": "b", "text": "<\\Doctype html>"},
+            {"option": "c", "text": "<Doctype>"},
+            {"option": "d", "text": "<!DOCTYPE html>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! In HTML5, the <!DOCTYPE html> tag is used to initialize the document type and inform the browser about the HTML version.",
+        "description_incorrect": "That's wrong. In HTML5, you should use the <!DOCTYPE html> tag to initialize the document type."
+    },
+    {
+        "question": "Which of the following tag is used to create a combo box (or drop-down box)?",
+        "options": [
+            {"option": "a", "text": "<list>"},
+            {"option": "b", "text": "<select>"},
+            {"option": "c", "text": "<input type = \"dropdown\">"},
+            {"option": "d", "text": "<ul>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <select> tag is used to create a combo box or drop-down box in HTML, allowing users to select from multiple options.",
+        "description_incorrect": "That's wrong. To create a combo box or drop-down box in HTML, you should use the <select> tag."
+    },
+    {
+        "question": "Which of the following are the attributes of the <form> tag?",
+        "options": [
+            {"option": "a", "text": "method"},
+            {"option": "b", "text": "action"},
+            {"option": "c", "text": "Both (a) & (b)"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <form> tag in HTML can have both 'method' and 'action' attributes to specify how the form data should be submitted.",
+        "description_incorrect": "That's incorrect. The <form> tag can have both 'method' and 'action' attributes to specify how the form data should be submitted."
+    },
+    {
+        "question": "Which is the correct way to comment out something in HTML?",
+        "options": [
+            {"option": "a", "text": "Using ## and #"},
+            {"option": "b", "text": "Using <!-- and -->"},
+            {"option": "c", "text": "Using </-- and -/-/>"},
+            {"option": "d", "text": "Using <!-- and -!>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! In HTML, you should use <!-- to start a comment and --> to end a comment. Anything between these markers will be treated as a comment and not displayed on the web page.",
+        "description_incorrect": "That's incorrect. To comment out something in HTML, you should use <!-- to start a comment and --> to end a comment."
+    },
+    {
+        "question": "Which HTML tag is used to display the power in expression, i.e., (x^2 - y^2)?",
+        "options": [
+            {"option": "a", "text": "<sup>"},
+            {"option": "b", "text": "<sub>"},
+            {"option": "c", "text": "<p>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <sup> tag in HTML is used to display text as superscript, which is often used for mathematical expressions like (x^2 - y^2).",
+        "description_incorrect": "That's incorrect. To display text as superscript for mathematical expressions, you should use the <sup> tag."
+    },
+    {
+        "question": "Which of the following is the correct way to change the font face in HTML?",
+        "options": [
+            {"option": "a", "text": "<font name = 'Calibri'> _____ </font>"},
+            {"option": "b", "text": "<font face = 'Calibri'> _____ </font>"},
+            {"option": "c", "text": "<font = 'Calibri'> ______ </font>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! To change the font face in HTML, you should use the <font> tag with the 'face' attribute like this: <font face='Calibri'>_____ </font>.",
+        "description_incorrect": "That's incorrect. To change the font face in HTML, you should use the <font> tag with the 'face' attribute like this: <font face='Calibri'> ____ </font>."
+    },
+    {
+        "question": "In HTML, which attribute is used to create a link that opens in a new window tab?",
+        "options": [
+            {"option": "a", "text": "src=\"_blank\""},
+            {"option": "b", "text": "alt=\"_blank\""},
+            {"option": "c", "text": "target=\"_self\""},
+            {"option": "d", "text": "target=\"_blank\""}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The target=\"_blank\" attribute in the Anchor tag is used to make a link open in a new window or tab.",
+        "description_incorrect": "That's incorrect. To make a link open in a new window or tab, you should use the target=\"_blank\" attribute in the Anchor tag."
+    },
+    {
+        "question": "Which HTML element is used for a short quote?",
+        "options": [
+            {"option": "a", "text": "<em>"},
+            {"option": "b", "text": "<abbr>"},
+            {"option": "c", "text": "<q>"},
+            {"option": "d", "text": "<blockquote>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <q> element in HTML is used for shorter quotes and is typically rendered with quotation marks around the content.",
+        "description_incorrect": "That's incorrect. To represent a short quote in HTML, you should use the <q> element."
+    },
+    {
+        "question": "Which of the following HTML tags is used to create an unordered list?",
+        "options": [
+            {"option": "a", "text": "<ol>"},
+            {"option": "b", "text": "<ul>"},
+            {"option": "c", "text": "<li>"},
+            {"option": "d", "text": "<ll>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <ul> tag is used to create an unordered list in HTML, and by default, the list items are displayed with bullets.",
+        "description_incorrect": "That's incorrect. To create an unordered list in HTML, you should use the <ul> tag."
+    },
+    {
+        "question": "Which HTML element is used for an abbreviation or acronym?",
+        "options": [
+            {"option": "a", "text": "<abbr>"},
+            {"option": "b", "text": "<blockquote>"},
+            {"option": "c", "text": "<q>"},
+            {"option": "d", "text": "<em>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <abbr> element in HTML is used for abbreviations or acronyms, and it allows you to specify a title for additional information.",
+        "description_incorrect": "That's incorrect. To represent an abbreviation or acronym in HTML, you should use the <abbr> element."
+    },
+    {
+        "question": "Which of the following HTML tags is used to add a row in a table?",
+        "options": [
+            {"option": "a", "text": "<th>"},
+            {"option": "b", "text": "<td>"},
+            {"option": "c", "text": "<tr>"},
+            {"option": "d", "text": "<tt>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! In HTML, the <tr> tag is used to create a row in a table.",
+        "description_incorrect": "That's incorrect. To create a row in an HTML table, you should use the <tr> tag."
+    },
+    {
+        "question": "What is the purpose of the <address> element in HTML?",
+        "options": [
+            {"option": "a", "text": "Contains IP address"},
+            {"option": "b", "text": "Contains home address"},
+            {"option": "c", "text": "Contains URL"},
+            {"option": "d", "text": "Contains contact details for the author"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The <address> element in HTML is used to contain contact details for the author of a web page.",
+        "description_incorrect": "That's incorrect. The <address> element in HTML is used to contain contact details for the author of a web page."
+    },
+    {
+        "question": "HTML is the standard ____ language for creating Web pages.",
+        "options": [
+            {"option": "a", "text": "scripting"},
+            {"option": "b", "text": "programming"},
+            {"option": "c", "text": "styling"},
+            {"option": "d", "text": "markup"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Correct! HTML is indeed the standard markup language used for creating Web pages.",
+        "description_incorrect": "Incorrect. The correct answer is D. HTML is the standard markup language for creating Web pages."
+    },
+    {
+        "question": "HTML stands for_______.",
+        "options": [
+            {"option": "a", "text": "Hyperactive Text Markup Language"},
+            {"option": "b", "text": "Hyper Text Markup Language"},
+            {"option": "c", "text": "Hyper Text Machine Language"},
+            {"option": "d", "text": "None of these"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's right! HTML stands for 'Hyper Text Markup Language.'",
+        "description_incorrect": "Oops, that's not correct. The answer is B. HTML stands for 'Hyper Text Markup Language.'"
+    },
+    {
+        "question": "Which is the correct syntax to include a comment in an HTML document?",
+        "options": [
+            {"option": "a", "text": "//"},
+            {"option": "b", "text": "/* Comment */"},
+            {"option": "c", "text": "// Comment //"},
+            {"option": "d", "text": "<!-- Comment -->"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Great job! You got it right. The correct syntax to include a comment in an HTML document is <!-- Comment -->.",
+        "description_incorrect": "Not quite. The correct answer is D. You should use <!-- Comment --> to include comments in HTML."
+    },
+    {
+        "question": "Can we hide content using a comment?",
+        "options": [
+            {"option": "a", "text": "Yes"},
+            {"option": "b", "text": "No"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Absolutely! Comments can be used to hide content in HTML.",
+        "description_incorrect": "Incorrect. You can indeed hide content using comments in HTML. The answer is A."
+    },
+    {
+        "question": "Can we hide inline content using a comment?",
+        "options": [
+            {"option": "a", "text": "Yes"},
+            {"option": "b", "text": "No"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Well done! You're correct. You can hide inline content using comments in HTML.",
+        "description_incorrect": "Not quite. The answer is A. You can hide inline content using comments in HTML."
+    }
+
+]

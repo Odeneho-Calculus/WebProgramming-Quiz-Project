@@ -1,0 +1,365 @@
+[
+
+    
+    {
+        "question": "The correct sequence of HTML tags for starting a webpage is -",
+        "options": [
+            {"option": "a", "text": "Head, Title, HTML, body"},
+            {"option": "b", "text": "HTML, Body, Title, Head"},
+            {"option": "c", "text": "HTML, Head, Title, Body"},
+            {"option": "d", "text": "HTML, Head, Title, Body"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The correct sequence of HTML tags to start a webpage is html, head, title, and body.",
+        "description_incorrect": "That's wrong. The correct sequence of HTML tags to start a webpage is html, head, title, and body."
+    },
+    {
+        "question": "Which of the following element is responsible for making the text bold in HTML?",
+        "options": [
+            {"option": "a", "text": "<pre>"},
+            {"option": "b", "text": "<a>"},
+            {"option": "c", "text": "<b>"},
+            {"option": "d", "text": "<br>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <b> (bold tag) tag in HTML is used to display the written text in bold format.",
+        "description_incorrect": "That's wrong. The correct tag for making text bold in HTML is <b> (bold tag)."
+    },
+    {
+        "question": "Which of the following tag is used for inserting the largest heading in HTML?",
+        "options": [
+            {"option": "a", "text": "<h3>"},
+            {"option": "b", "text": "<h1>"},
+            {"option": "c", "text": "<h5>"},
+            {"option": "d", "text": "<h6>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <h1> tag is used to insert the main heading or the highest level heading.",
+        "description_incorrect": "That's wrong. The correct tag for inserting the largest heading in HTML is <h1>."
+    },
+    {
+        "question": "Which of the following tag is used to insert a line-break in HTML?",
+        "options": [
+            {"option": "a", "text": "<br>"},
+            {"option": "b", "text": "<a>"},
+            {"option": "c", "text": "<pre>"},
+            {"option": "d", "text": "<b>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <br> tag in the HTML document is used to create a line break in a text. If we place the <br> tag in HTML code, then it works the same as pressing the enter key in a word processor.",
+        "description_incorrect": "That's wrong. The correct tag for inserting a line break in HTML is <br>."
+    },
+    {
+        "question": "How to create an unordered list (a list with the list items in bullets) in HTML?",
+        "options": [
+            {"option": "a", "text": "<ul>"},
+            {"option": "b", "text": "<ol>"},
+            {"option": "c", "text": "<li>"},
+            {"option": "d", "text": "<i>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <ul> tag in HTML is used to display the list items in a bulleted format. There can be four types of an unordered list: disc, circle, square, and none.",
+        "description_incorrect": "That's wrong. The correct tag for creating an unordered list in HTML is <ul>."
+    },
+    {
+        "question": "Which character is used to represent the closing of a tag in HTML?",
+        "options": [
+            {"option": "a", "text": "\""},
+            {"option": "b", "text": "!"},
+            {"option": "c", "text": "/"},
+            {"option": "d", "text": "."}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The forward-slash (/) character is used to indicate the closing of a tag in HTML.",
+        "description_incorrect": "That's wrong. The correct character used to represent the closing of a tag in HTML is the forward-slash (/)."
+    },
+    {
+        "question": "How to create a hyperlink in HTML?",
+        "options": [
+            {"option": "a", "text": "<a href = \"www.calculusguy.com\"> calculusGuy.com </a>"},
+            {"option": "b", "text": "<a url = \"www.calculusguy.com\" calculusGuy.com /a>"},
+            {"option": "c", "text": "<a link = \"www.calculusguy.com\"> calculusGuy.com </a>"},
+            {"option": "d", "text": "<a> www.calculusguy.com <calculusGuy.com /a>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The anchor tag and the href attribute are used to create a link in HTML.",
+        "description_incorrect": "That's wrong. The correct way to create a hyperlink in HTML is by using the <a> tag with the href attribute."
+    },
+    {
+        "question": "How to create an ordered list (a list with the list items in numbers) in HTML?",
+        "options": [
+            {"option": "a", "text": "<ul>"},
+            {"option": "b", "text": "<ol>"},
+            {"option": "c", "text": "<li>"},
+            {"option": "d", "text": "<i>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <ol> tag in HTML is used to display the list items in a numbered format. There can be different types of numbered lists, such as numeric number, capital alphabet, small alphabet, etc.",
+        "description_incorrect": "That's wrong. The correct tag for creating an ordered list in HTML is <ol>."
+    },
+    {
+        "question": "Which of the following element is responsible for making the text italic in HTML?",
+        "options": [
+            {"option": "a", "text": "<i>"},
+            {"option": "b", "text": "<italic>"},
+            {"option": "c", "text": "<it>"},
+            {"option": "d", "text": "<pre>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <i> (italic tag) tag in HTML is used to display the written text in italic format.",
+        "description_incorrect": "That's wrong. The correct tag for making text italic in HTML is <i> (italic tag)."
+    },
+    
+    {
+        "question": "How to insert an image in HTML?",
+        "options": [
+            {"option": "a", "text": "<img href = \"jtp.png\" />"},
+            {"option": "b", "text": "<img url = \"jtp.png\" />"},
+            {"option": "c", "text": "<img link = \"jtp.png\" />"},
+            {"option": "d", "text": "<img src = \"jtp.png\" />"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The img tag and the src attribute are used to display an image on the webpage.",
+        "description_incorrect": "That's wrong. The correct way to insert an image in HTML is using the <img> tag with the src attribute."
+    },
+    {
+        "question": "How to add a background color in HTML?",
+        "options": [
+            {"option": "a", "text": "<marquee bg color: \"red\">"},
+            {"option": "b", "text": "<marquee bg-color = \"red\">"},
+            {"option": "c", "text": "<marquee bgcolor = \"red\">"},
+            {"option": "d", "text": "<marquee color = \"red\">"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The bgcolor attribute is used to set the background color of an HTML element.",
+        "description_incorrect": "That's wrong. To set the background color in HTML, you should use the bgcolor attribute as shown: <marquee bgcolor = \"color\">."
+    },
+    {
+        "question": "<input> is -",
+        "options": [
+            {"option": "a", "text": "a format tag."},
+            {"option": "b", "text": "an empty tag."},
+            {"option": "c", "text": "All of the above"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <input> tag in HTML is an empty tag used to represent a form input control in an HTML document.",
+        "description_incorrect": "That's wrong. The <input> tag in HTML is indeed an empty tag used for form input controls."
+    },
+    {
+        "question": "Which of the following tag is used to make the underlined text?",
+        "options": [
+            {"option": "a", "text": "<i>"},
+            {"option": "b", "text": "<ul>"},
+            {"option": "c", "text": "<u>"},
+            {"option": "d", "text": "<pre>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <u> (underline tag) tag in HTML is used to display underlined text. It renders as solid underlined text, but its appearance can be changed using CSS properties.",
+        "description_incorrect": "That's wrong. The correct tag for making text underlined in HTML is <u> (underline tag)."
+    },
+    {
+        "question": "How to create a checkbox in HTML?",
+        "options": [
+            {"option": "a", "text": "<input type = \"checkbox\">"},
+            {"option": "b", "text": "<input type = \"button\">"},
+            {"option": "c", "text": "<checkbox>"},
+            {"option": "d", "text": "<input type = \"check\">"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! To create a checkbox in HTML, you should use the <input> tag with the type attribute set to \"checkbox\".",
+        "description_incorrect": "That's wrong. The correct way to create a checkbox in HTML is using the <input> tag with the type attribute set to \"checkbox\"."
+    },
+    {
+        "question": "HTML tags are enclosed in -",
+        "options": [
+            {"option": "a", "text": "# and #"},
+            {"option": "b", "text": "{ and }"},
+            {"option": "c", "text": "! and ?"},
+            {"option": "d", "text": "< and >"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! All HTML tags must be enclosed within angular < > brackets.",
+        "description_incorrect": "That's wrong. HTML tags are enclosed within < and > brackets."
+    },
+    {
+        "question": "Which of the following tag is used to add rows in the table?",
+        "options": [
+            {"option": "a", "text": "<td> and </td>"},
+            {"option": "b", "text": "<th> and </th>"},
+            {"option": "c", "text": "<tr> and </tr>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <tr> tag in HTML is used to define rows in a table. It can contain one or more <th> head cells and <td> data cells to define a single row of an HTML table.",
+        "description_incorrect": "That's wrong. Rows in an HTML table are defined using the <tr> tag."
+    },
+    {
+        "question": "The <hr> tag in HTML is used for -",
+        "options": [
+            {"option": "a", "text": "new line"},
+            {"option": "b", "text": "vertical ruler"},
+            {"option": "c", "text": "new paragraph"},
+            {"option": "d", "text": "horizontal ruler"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The <hr> tag is used to specify a paragraph-level thematic break in an HTML document. It is called a horizontal rule and draws a horizontal line.",
+        "description_incorrect": "That's wrong. The <hr> tag in HTML is used to create a horizontal rule or line."
+    },
+    {
+        "question": "Which of the following attribute is used to provide a unique name to an element?",
+        "options": [
+            {"option": "a", "text": "class"},
+            {"option": "b", "text": "id"},
+            {"option": "c", "text": "type"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The id attribute is used to specify a unique id for an element in an HTML document. It can be used by JavaScript and CSS to perform specific tasks.",
+        "description_incorrect": "That's wrong. The id attribute is used to provide a unique name to an element in HTML."
+    },
+    {
+        "question": "Which of the following attribute is used to provide a unique name to an element?",
+        "options": [
+            {"option": "a", "text": "class"},
+            {"option": "b", "text": "id"},
+            {"option": "c", "text": "type"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The id attribute is used to specify a unique id for an element of the HTML document. It allocates the unique identifier which can be used by JavaScript and CSS to perform certain tasks.",
+        "description_incorrect": "That's wrong. The id attribute is used to provide a unique name to an element in HTML."
+    },
+    {
+        "question": "Which of the following HTML tag is used to display the text with scrolling effect?",
+        "options": [
+            {"option": "a", "text": "<marquee>"},
+            {"option": "b", "text": "<scroll>"},
+            {"option": "c", "text": "<div>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The <marquee> tag is a non-standard HTML element that is used to scroll text or an image either horizontally or vertically. It can automatically scroll the content in different directions.",
+        "description_incorrect": "That's wrong. The <marquee> tag is used to create scrolling text or images in HTML."
+    },
+    {
+        "question": "Which tag/element defines the HTML document's body?",
+        "options": [
+            {"option": "a", "text": "<HTML>"},
+            {"option": "b", "text": "<HTMLbody>"},
+            {"option": "c", "text": "<bdy>"},
+            {"option": "d", "text": "<body>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Correct! The <body> element defines the HTML document's body.",
+        "description_incorrect": "Incorrect. The correct answer is D) <body>, which defines the HTML document's body."
+    },
+    {
+        "question": "Which tag contains the meta information about the HTML page?",
+        "options": [
+            {"option": "a", "text": "<html>"},
+            {"option": "b", "text": "<title>"},
+            {"option": "c", "text": "<head>"},
+            {"option": "d", "text": "<body>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Well done! The <head> tag contains the meta information about the HTML page.",
+        "description_incorrect": "That's not correct. The answer is C) <head>, which contains meta information about the HTML page."
+    },
+    {
+        "question": "Which tag is the root element of an HTML page?",
+        "options": [
+            {"option": "a", "text": "<html>"},
+            {"option": "b", "text": "<title>"},
+            {"option": "c", "text": "<head>"},
+            {"option": "d", "text": "<body>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "You got it right! The <html> tag is the root element of an HTML page.",
+        "description_incorrect": "Oops, that's not correct. The correct answer is A) <html>, which is the root element of an HTML page."
+    },
+    {
+        "question": "Who invented HTML?",
+        "options": [
+            {"option": "a", "text": "Dave Raggett"},
+            {"option": "b", "text": "Tim Berners-Lee"},
+            {"option": "c", "text": "Denis Ritchie"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Correct! Tim Berners-Lee invented HTML in 1991.",
+        "description_incorrect": "Incorrect. The answer is B) Tim Berners-Lee, who invented HTML in 1991."
+    },
+    {
+        "question": "HTML tags with no content are called _____.",
+        "options": [
+            {"option": "a", "text": "Special tags"},
+            {"option": "b", "text": "Advanced tags"},
+            {"option": "c", "text": "Empty tags"},
+            {"option": "d", "text": "Other tags"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Absolutely! HTML tags with no content are called empty tags.",
+        "description_incorrect": "Not quite. The correct answer is C) Empty tags, which are HTML tags with no content."
+    },
+    {
+        "question": "Nested HTML Elements are allowed in HTML?",
+        "options": [
+            {"option": "a", "text": "Yes"},
+            {"option": "b", "text": "No"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Well done! Nested HTML Elements are allowed in HTML.",
+        "description_incorrect": "Incorrect. The answer is A) Yes, nested HTML Elements are indeed allowed in HTML."
+    },
+    {
+        "question": "Is HTML a case sensitive?",
+        "options": [
+            {"option": "a", "text": "Yes"},
+            {"option": "b", "text": "No"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Correct! HTML is not case sensitive.",
+        "description_incorrect": "That's not right. HTML is not case sensitive, so the answer is B) No."
+    },
+    {
+        "question": "HTML headings are defined with the _____ tags.",
+        "options": [
+            {"option": "a", "text": "<head1> to <head6>"},
+            {"option": "b", "text": "<p1> to <p6>"},
+            {"option": "c", "text": "<h1> to <h6>"},
+            {"option": "d", "text": "<h1> to <h3>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Great job! HTML headings are defined with the <h1> to <h6> tags.",
+        "description_incorrect": "Oops, that's not correct. The answer is C) <h1> to <h6>, which define HTML headings."
+    },
+    {
+        "question": "Which tag is used to display a horizontal rule (horizontal line)?",
+        "options": [
+            {"option": "a", "text": "<br>"},
+            {"option": "b", "text": "<hr>"},
+            {"option": "c", "text": "<hr>...</hr>"},
+            {"option": "d", "text": "<line>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "You got it right! The <hr> tag is used to display a horizontal rule.",
+        "description_incorrect": "That's not correct. The answer is B) <hr>, which is used to display a horizontal rule."
+    },
+    {
+        "question": "What is the correct syntax of <hr> tag?",
+        "options": [
+            {"option": "a", "text": "<hr>"},
+            {"option": "b", "text": "<hr />"},
+            {"option": "c", "text": "<hr></hr>"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Well done! Both <hr> and <hr /> are correct syntax for the <hr> tag.",
+        "description_incorrect": "That's not quite right. The correct answers are A) <hr> and B) <hr />, which are both valid syntax for the <hr> tag."
+    }
+
+
+
+
+]

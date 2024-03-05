@@ -1,0 +1,365 @@
+[
+    {
+        "question": "JPEG stands for",
+        "options": [
+            {"option": "a", "text": "Joint photographic embedded group"},
+            {"option": "b", "text": "Joint photographic extended group"},
+            {"option": "c", "text": "Joint photographic experts group"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! JPEG stands for 'Joint photographic experts group.'",
+        "description_incorrect": "That's incorrect. The correct answer is 'Joint photographic experts group (JPEG).'"
+    },
+    {
+        "question": "Morphing is also related to",
+        "options": [
+            {"option": "a", "text": "Text"},
+            {"option": "b", "text": "Sound"},
+            {"option": "c", "text": "Animation"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! Morphing is also related to animation.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Animation.' Morphing is a technique used in animation."
+    },
+    {
+        "question": "Which of the following tags do not require a terminator?",
+        "options": [
+            {"option": "a", "text": "<U>"},
+            {"option": "b", "text": "<BR>"},
+            {"option": "c", "text": "<B>"},
+            {"option": "d", "text": "None of above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <BR> tag does not require a terminator.",
+        "description_incorrect": "That's incorrect. The correct answer is '<BR>'. The <BR> tag does not require a terminator."
+    },
+    
+    {
+        "question": "Minimum main memory required to set up a multimedia computer is",
+        "options": [
+            {"option": "a", "text": "4GB"},
+            {"option": "b", "text": "4MB"},
+            {"option": "c", "text": "200MB"},
+            {"option": "d", "text": "8MB"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! A minimum of 8MB of main memory is required to set up a multimedia computer.",
+        "description_incorrect": "That's incorrect. The correct answer is '8MB.' A minimum of 8MB of main memory is required to set up a multimedia computer."
+    },
+    {
+        "question": "CD-ROM stands for",
+        "options": [
+            {"option": "a", "text": "Computer disk read-only memory"},
+            {"option": "b", "text": "Computer disk readout memory"},
+            {"option": "c", "text": "Compact disk read-only memory"},
+            {"option": "d", "text": "Compact disk readout memory"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! CD-ROM stands for 'Compact disk read-only memory.'",
+        "description_incorrect": "That's incorrect. The correct answer is 'Compact disk read-only memory (CD-ROM).'"
+    },
+    {
+        "question": "MIDI stands for",
+        "options": [
+            {"option": "a", "text": "Musical interface digital instrument"},
+            {"option": "b", "text": "Musical instrument digital interfaces"},
+            {"option": "c", "text": "Musical instrument digital input"},
+            {"option": "d", "text": "Musical instrument digital instrument"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! MIDI stands for 'Musical instrument digital interfaces.'",
+        "description_incorrect": "That's incorrect. The correct answer is 'Musical instrument digital interfaces (MIDI).'"
+    },
+    {
+        "question": "TIFF stands for",
+        "options": [
+            {"option": "a", "text": "Tagged image file format"},
+            {"option": "b", "text": "Textual images file format"},
+            {"option": "c", "text": "Tagged image font file"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! TIFF stands for 'Tagged image file format.'",
+        "description_incorrect": "That's incorrect. The correct answer is 'Tagged image file format (TIFF).'"
+    },
+    {
+        "question": "WMF is a",
+        "options": [
+            {"option": "a", "text": "Text format"},
+            {"option": "b", "text": "Vector format"},
+            {"option": "c", "text": "CompuServe"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! WMF is a vector format.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Vector format (WMF).'"
+    },
+    {
+        "question": "The application of wave studio is",
+        "options": [
+            {"option": "a", "text": "Transfer sound information from analog to digital"},
+            {"option": "b", "text": "It is used to record, play, and edit 8-bit or 16-bit wave data"},
+            {"option": "c", "text": "Transfer sound information from waveform to AVI form"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! Wave Studio is used to record, play, and edit 8-bit or 16-bit wave data.",
+        "description_incorrect": "That's incorrect. The correct answer is 'It is used to record, play, and edit 8-bit or 16-bit wave data.' Wave Studio is an application for audio editing."
+    },
+    {
+        "question": "The main factor in the rapid growth of the net was the inclusion of ___ protocol in the Berkeley versions of ___",
+        "options": [
+            {"option": "a", "text": "TCP/IP, Xenix"},
+            {"option": "b", "text": "TCP/IP, Linux"},
+            {"option": "c", "text": "TCP/IP, Unix"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The main factor in the rapid growth of the net was the inclusion of the TCP/IP protocol in the Berkeley versions of Unix.",
+        "description_incorrect": "That's incorrect. The correct answer is 'TCP/IP, Unix.' The main factor in the rapid growth of the net was the inclusion of the TCP/IP protocol in the Berkeley versions of Unix."
+    },
+    {
+        "question": "For abbreviation we can use",
+        "options": [
+            {"option": "a", "text": "<abbr></abbr> tags"},
+            {"option": "b", "text": "<acronym></acronym>"},
+            {"option": "c", "text": "Both of the Above"},
+            {"option": "d", "text": "None of the Above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! For abbreviations, we can use both the <abbr></abbr> and <acronym></acronym> tags.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Both of the Above.' For abbreviations, we can use both the <abbr></abbr> and <acronym></acronym> tags."
+    },
+    {
+        "question": "FTP applications are",
+        "options": [
+            {"option": "a", "text": "Used to download and upload files"},
+            {"option": "b", "text": "Internet browsers"},
+            {"option": "c", "text": "Used to send E-mails"},
+            {"option": "d", "text": "Used to chat with other people"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! FTP applications are used to download and upload files.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Used to download and upload files.' FTP applications are primarily used for transferring files over a network."
+    },
+    {
+        "question": "Which of the following FTP program is found in all Windows systems?",
+        "options": [
+            {"option": "a", "text": "WFTP.EXE"},
+            {"option": "b", "text": "FTP.EXE"},
+            {"option": "c", "text": "WSFTP.EXE"},
+            {"option": "d", "text": "TFTP.EXE"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! FTP.EXE is found in all Windows systems and can be used for FTP operations.",
+        "description_incorrect": "That's incorrect. The correct answer is 'FTP.EXE.' FTP.EXE is a standard FTP program that is found in all Windows systems and can be used for FTP operations."
+    },
+    {
+        "question": "The domain for India is",
+        "options": [
+            {"option": "a", "text": "Ind"},
+            {"option": "b", "text": "Indi"},
+            {"option": "c", "text": "In"},
+            {"option": "d", "text": "Indus"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The domain for India is 'In'.",
+        "description_incorrect": "That's incorrect. The correct answer is 'In.' The domain for India is represented by '.in'."
+    },
+    {
+        "question": "Modem speeds are measured in",
+        "options": [
+            {"option": "a", "text": "bsp"},
+            {"option": "b", "text": "bps"},
+            {"option": "c", "text": "bds"},
+            {"option": "d", "text": "none of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! Modem speeds are measured in 'bps' (bits per second).",
+        "description_incorrect": "That's incorrect. The correct answer is 'bps' (bits per second). Modem speeds are commonly expressed in bps."
+    },
+    {
+        "question": "Which of the following is true?",
+        "options": [
+            {"option": "a", "text": "TCP/IP account is less expensive than the shell account and does not allow graphics to download."},
+            {"option": "b", "text": "TCP/IP account is more expensive than the shell account and does allow graphics to download."},
+            {"option": "c", "text": "TCP/IP account is more expensive than the shell account and allows graphics to download."},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! A TCP/IP account is more expensive than the shell account and allows graphics to be downloaded.",
+        "description_incorrect": "That's incorrect. The correct answer is 'TCP/IP account is more expensive than the shell account and allows graphics to download.' TCP/IP accounts typically come with a higher cost and support graphical content."
+    },
+    {
+        "question": "DNS server is used for",
+        "options": [
+            {"option": "a", "text": "To translate the domain name of another computer into IP address only"},
+            {"option": "b", "text": "To translate the domain name of another computer into IP address and vice versa on request"},
+            {"option": "c", "text": "To translate the IP address to the domain name"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! A DNS server is used to translate the domain name of another computer into an IP address and vice versa on request.",
+        "description_incorrect": "That's incorrect. The correct answer is 'To translate the domain name of another computer into IP address and vice versa on request.' A DNS server performs bidirectional translations between domain names and IP addresses."
+    },
+    {
+        "question": "The program that can be used to make your computer act as a terminal is",
+        "options": [
+            {"option": "a", "text": "Terminal simulation program"},
+            {"option": "b", "text": "Terminal emulation program"},
+            {"option": "c", "text": "Terminal emulsion program"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! A terminal emulation program can be used to make your computer act as a terminal.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Terminal emulation program.' A terminal emulation program allows your computer to mimic the behavior of a terminal."
+    },
+    {
+        "question": "___ is widely known as the father of the World Wide Web",
+        "options": [
+            {"option": "a", "text": "Tom Berners-Lee"},
+            {"option": "b", "text": "Tom Bruce-Lee"},
+            {"option": "c", "text": "Tim Bruce-Lee"},
+            {"option": "d", "text": "Tim Berners-Lee"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! Tim Berners-Lee is widely known as the father of the World Wide Web.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Tim Berners-Lee.' Tim Berners-Lee is recognized as the pioneer of the World Wide Web."
+    },
+    {
+        "question": "The search engine that lets you search across sites in many languages, ranging from Greek to Hebrew to Estonian is",
+        "options": [
+            {"option": "a", "text": "www.isleuth.com"},
+            {"option": "b", "text": "www.altavista.digital.com"},
+            {"option": "c", "text": "www.excite.com"},
+            {"option": "d", "text": "www.yahoo.com"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! www.altavista.digital.com is a search engine that allows you to search across sites in many languages.",
+        "description_incorrect": "That's incorrect. The correct answer is 'www.altavista.digital.com.' www.altavista.digital.com was known for its multilingual search capabilities."
+    },
+    
+    {
+        "question": "Which tag is used to define a line break?",
+        "options": [
+            {"option": "a", "text": "<\\n>"},
+            {"option": "b", "text": "<lr>"},
+            {"option": "c", "text": "<br>"},
+            {"option": "d", "text": "<br>...</br>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Correct! The <br> tag is used to define a line break.",
+        "description_incorrect": "Incorrect. The correct answer is C) <br>, which is used to define a line break."
+    },
+    {
+        "question": "What is the correct syntax of <br> tag?",
+        "options": [
+            {"option": "a", "text": "<br>"},
+            {"option": "b", "text": "<br />"},
+            {"option": "c", "text": "<br></br>"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Well done! Both <br> and <br /> are correct syntax for the <br> tag.",
+        "description_incorrect": "That's not quite right. The correct answers are A) <br> and B) <br />, which are both valid syntax for the <br> tag."
+    },
+    {
+        "question": "Which tag is used to define preformatted text?",
+        "options": [
+            {"option": "a", "text": "<pf>"},
+            {"option": "b", "text": "<p>"},
+            {"option": "c", "text": "<pre>"},
+            {"option": "d", "text": "<code>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Absolutely! The <pre> tag is used to define preformatted text.",
+        "description_incorrect": "Not quite. The answer is C) <pre>, which is used to define preformatted text."
+    },
+    {
+        "question": "Which HTML attribute is used to define styles of an element?",
+        "options": [
+            {"option": "a", "text": "<style>"},
+            {"option": "b", "text": "<css>"},
+            {"option": "c", "text": "style"},
+            {"option": "d", "text": "css"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Correct! The style attribute is used to define the styles of an element.",
+        "description_incorrect": "Incorrect. The correct answer is C) style, which is used to define the styles of an element."
+    },
+    {
+        "question": "Which is the correct HTML statement to define the red color of the paragraph text?",
+        "options": [
+            {"option": "a", "text": "<p style=\"color: #ff0000;\">"},
+            {"option": "b", "text": "<p style=\"color: red;\">"},
+            {"option": "c", "text": "Both A. and B."},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Well done! Both A. and B. are correct HTML statements to define red paragraph color.",
+        "description_incorrect": "That's not correct. The answer is C) Both A. and B., which are correct HTML statements to define red paragraph color."
+    },
+    {
+        "question": "Which HTML tag is used to define bold text, without any extra importance?",
+        "options": [
+            {"option": "a", "text": "<strong>"},
+            {"option": "b", "text": "<bold>"},
+            {"option": "c", "text": "<bolder>"},
+            {"option": "d", "text": "<b>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Correct! The HTML <b> tag is used to define bold text, without any extra importance.",
+        "description_incorrect": "Incorrect. The answer is D) <b>, which is used to define bold text without additional importance."
+    },
+    {
+        "question": "Which HTML tag is used to define text with strong importance?",
+        "options": [
+            {"option": "a", "text": "<strong>"},
+            {"option": "b", "text": "<bold>"},
+            {"option": "c", "text": "<bolder>"},
+            {"option": "d", "text": "<b>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Great job! The HTML tag <strong> is used to define text with strong importance.",
+        "description_incorrect": "Oops, that's not correct. The answer is A) <strong>, which is used to define text with strong importance."
+    },
+    {
+        "question": "Which HTML tag is used to define italic text?",
+        "options": [
+            {"option": "a", "text": "<italic>"},
+            {"option": "b", "text": "<em>"},
+            {"option": "c", "text": "<i>"},
+            {"option": "d", "text": "<it>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "You got it right! The HTML tag <i> is used to define italic text.",
+        "description_incorrect": "That's not correct. The answer is C) <i>, which is used to define italic text."
+    },
+    {
+        "question": "Which HTML tag is used to define emphasized text?",
+        "options": [
+            {"option": "a", "text": "<italic>"},
+            {"option": "b", "text": "<em>"},
+            {"option": "c", "text": "<i>"},
+            {"option": "d", "text": "<it>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Correct! The HTML tag <em> is used to define emphasized text.",
+        "description_incorrect": "That's not right. The answer is B) <em>, which is used to define emphasized text."
+    },
+    {
+        "question": "Which HTML tag is used to define smaller text?",
+        "options": [
+            {"option": "a", "text": "<normal>"},
+            {"option": "b", "text": "<span>"},
+            {"option": "c", "text": "<smaller>"},
+            {"option": "d", "text": "<small>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Great job! The HTML tag <small> is used to define smaller text.",
+        "description_incorrect": "Oops, that's not correct. The answer is D) <small>, which is used to define smaller text."
+    }
+
+]

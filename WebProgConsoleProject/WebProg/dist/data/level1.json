@@ -1,0 +1,488 @@
+[
+    {
+        "question": "What is HTML?",
+        "options": [
+            {"option": "a", "text": "HTML describes the structure of a webpage"},
+            {"option": "b", "text": "HTML is the standard markup language mainly used to create web pages"},
+            {"option": "c", "text": "HTML consists of a set of elements that helps the browser how to view the content"},
+            {"option": "d", "text": "All of the mentioned"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! HTML is the standard markup language mainly used to create web pages. HTML describes the structure and layout of a webpage. HTML consists of a series of elements that help the browser display content easily.",
+        "description_incorrect": "That's wrong. The correct answer is 'All of the mentioned.' HTML is the standard markup language used to create web pages, and it describes the structure of a webpage, consisting of a set of elements that help the browser display content."
+    },
+    {
+        "question": "Who is the father of HTML?",
+        "options": [
+            {"option": "a", "text": "Rasmus Lerdorf"},
+            {"option": "b", "text": "Tim Berners-Lee"},
+            {"option": "c", "text": "Brendan Eich"},
+            {"option": "d", "text": "Sergey Brin"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! Timothy John Berners-Lee (TimBL) is known as the father of HTML. He is a British computer scientist, best known as the inventor of the World Wide Web.",
+        "description_incorrect": "That's wrong. The correct answer is 'Tim Berners-Lee.' He is known as the father of HTML and is best known as the inventor of the World Wide Web."
+    },
+    {
+        "question": "HTML stands for __________",
+        "options": [
+            {"option": "a", "text": "HyperText Markup Language"},
+            {"option": "b", "text": "HyperText Machine Language"},
+            {"option": "c", "text": "HyperText Marking Language"},
+            {"option": "d", "text": "HighText Marking Language"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! HTML stands for HyperText Markup Language.",
+        "description_incorrect": "That's wrong. The correct answer is 'HyperText Markup Language.'"
+    },
+    {
+        "question": "What is the correct syntax of doctype in HTML?",
+        "options": [
+            {"option": "a", "text": "</doctype html>"},
+            {"option": "b", "text": "<doctype html>"},
+            {"option": "c", "text": "<doctype html!>"},
+            {"option": "d", "text": "<!doctype html>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The correct syntax of HTML doctype is <!doctype html>. Doctype is the very first thing to write in HTML. <!doctype html> or <!DOCTYPE HTML> both are the same because the 'doctype' keyword is not case-sensitive.",
+        "description_incorrect": "That's wrong. The correct answer is '<!doctype html>'. It is the correct syntax for the doctype declaration in HTML."
+    },
+    {
+        "question": "Which of the following is used to read an HTML page and render it?",
+        "options": [
+            {"option": "a", "text": "Web server"},
+            {"option": "b", "text": "Web network"},
+            {"option": "c", "text": "Web browser"},
+            {"option": "d", "text": "Web matrix"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! A web browser is used to read an HTML page and render it. It retrieves, presents, and traverses information resources on the World Wide Web.",
+        "description_incorrect": "That's wrong. The correct answer is 'Web browser.' A web browser is used to read an HTML page and render it by retrieving, presenting, and traversing information resources on the World Wide Web."
+    },
+     {
+            "question": "There are ___ levels of heading in HTML",
+            "options": [
+                {"option": "a", "text": "three"},
+                {"option": "b", "text": "four"},
+                {"option": "c", "text": "five"},
+                {"option": "d", "text": "six"}
+            ],
+            "correct_option": "d",
+            "description_correct": "That's correct! There are six levels of heading in HTML.",
+            "description_incorrect": "That's incorrect. The correct answer is 'six.' HTML has six levels of heading."
+        },
+        {
+            "question": "The purpose of markup is to",
+            "options": [
+                {"option": "a", "text": "add hypertext capabilities"},
+                {"option": "b", "text": "enhance the document"},
+                {"option": "c", "text": "both A & B"},
+                {"option": "d", "text": "none of the above"}
+            ],
+            "correct_option": "c",
+            "description_correct": "That's correct! The purpose of markup is to both add hypertext capabilities and enhance the document.",
+            "description_incorrect": "That's incorrect. The correct answer is 'both A & B.' Markup is used to add hypertext capabilities and enhance the document."
+        },
+        {
+            "question": "Which of the following tags do not require a terminator?",
+            "options": [
+                {"option": "a", "text": "<u>"},
+                {"option": "b", "text": "<br>"},
+                {"option": "c", "text": "<b>"},
+                {"option": "d", "text": "none of the above"}
+            ],
+            "correct_option": "b",
+            "description_correct": "That's correct! The <br> tag does not require a terminator.",
+            "description_incorrect": "That's incorrect. The correct answer is '<br>'. The <br> tag does not require a terminator."
+        },
+        {
+            "question": "To get the ordered list we use",
+            "options": [
+                {"option": "a", "text": "<h1>"},
+                {"option": "b", "text": "<ul>"},
+                {"option": "c", "text": "<ol>"},
+                {"option": "d", "text": "<ml>"}
+            ],
+            "correct_option": "c",
+            "description_correct": "That's correct! To get an ordered list, we use the <ol> tag.",
+            "description_incorrect": "That's incorrect. The correct answer is '<ol>'. To create an ordered list in HTML, you use the <ol> tag."
+        },
+        {
+            "question": "The Major components of the Web browser are ___",
+            "options": [
+                {"option": "a", "text": "Menu Bar"},
+                {"option": "b", "text": "ToolBar"},
+                {"option": "c", "text": "Location"},
+                {"option": "d", "text": "All Of the Above"}
+            ],
+            "correct_option": "d",
+            "description_correct": "That's correct! The major components of the Web browser include Menu Bar, ToolBar, and Location.",
+            "description_incorrect": "That's incorrect. The correct answer is 'All Of the Above.' The major components of the Web browser include Menu Bar, ToolBar, and Location."
+        },
+        {
+            "question": "Which one of the following tags is used to insert graphics in the webpage",
+            "options": [
+                {"option": "a", "text": "<image>"},
+                {"option": "b", "text": "<images>"},
+                {"option": "c", "text": "<img>"},
+                {"option": "d", "text": "<graphics>"}
+            ],
+            "correct_option": "c",
+            "description_correct": "That's correct! The <img> tag is used to insert graphics in a webpage.",
+            "description_incorrect": "That's incorrect. The correct answer is '<img>'. The <img> tag is used to insert graphics in a webpage."
+        },
+        {
+            "question": "The following HTML tag is used to display the content as a moving text",
+            "options": [
+                {"option": "a", "text": "<marquee>"},
+                {"option": "b", "text": "</img>"},
+                {"option": "c", "text": "<a href>"},
+                {"option": "d", "text": "none of the above"}
+            ],
+            "correct_option": "a",
+            "description_correct": "That's correct! The <marquee> tag is used to display content as moving text.",
+            "description_incorrect": "That's incorrect. The correct answer is '<marquee>'. The <marquee> tag is used to display content as moving text."
+        },
+        {
+            "question": "HTML comment should be enclosed between",
+            "options": [
+                {"option": "a", "text": "<!-- and -->"},
+                {"option": "b", "text": "<! And !>"},
+                {"option": "c", "text": "<!-- and --\">"},
+                {"option": "d", "text": "none of the above"}
+            ],
+            "correct_option": "a",
+            "description_correct": "That's correct! HTML comments should be enclosed between <!-- and -->.",
+            "description_incorrect": "That's incorrect. The correct answer is '<!-- and -->'. HTML comments should be enclosed between these delimiters."
+        },
+        {
+            "question": "For a particular font, its size attribute can be an absolute value ranging from",
+            "options": [
+                {"option": "a", "text": "1-10"},
+                {"option": "b", "text": "1-9"},
+                {"option": "c", "text": "1-8"},
+                {"option": "d", "text": "1-7"}
+            ],
+            "correct_option": "a",
+            "description_correct": "That's correct! For a particular font, its size attribute can be an absolute value ranging from 1 to 10.",
+            "description_incorrect": "That's incorrect. The correct answer is '1-10.' For a particular font, its size attribute can be an absolute value ranging from 1 to 10."
+        },    
+        {
+            "question": "The decimal range of network address for class B network is between",
+            "options": [
+                {"option": "a", "text": "127-190"},
+                {"option": "b", "text": "128-190"},
+                {"option": "c", "text": "128-191"},
+                {"option": "d", "text": "127-255"}
+            ],
+            "correct_option": "c",
+            "description_correct": "That's correct! The decimal range of network addresses for a class B network is between 128 and 191.",
+            "description_incorrect": "That's incorrect. The correct answer is '128-191.' The decimal range of network addresses for a class B network is between 128 and 191."
+        },    
+    {
+        "question": "___ tag is used before beginning of the paragraph text",
+        "options": [
+            {"option": "a", "text": "<textarea>"},
+            {"option": "b", "text": "<sup>"},
+            {"option": "c", "text": "<p>"},
+            {"option": "d", "text": "<h1>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <p> tag is used before the beginning of the paragraph text.",
+        "description_incorrect": "That's incorrect. The correct answer is '<p>'. The <p> tag is used before the beginning of the paragraph text."
+    },
+    {
+        "question": "Example of picture editing software is",
+        "options": [
+            {"option": "a", "text": "ms paint"},
+            {"option": "b", "text": "photoshop"},
+            {"option": "c", "text": "animator pro"},
+            {"option": "d", "text": "none of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! An example of picture editing software is 'photoshop'.",
+        "description_incorrect": "That's incorrect. The correct answer is 'photoshop'. Photoshop is an example of picture editing software."
+    },
+    {
+        "question": "CD ROM stands for",
+        "options": [
+            {"option": "a", "text": "computer disk read only memory"},
+            {"option": "b", "text": "computer disk read out memory"},
+            {"option": "c", "text": "compact disk read only memory"},
+            {"option": "d", "text": "compact disk read out memory"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! CD ROM stands for 'compact disk read only memory'.",
+        "description_incorrect": "That's incorrect. The correct answer is 'compact disk read only memory'. CD ROM stands for 'compact disk read only memory'."
+    },
+    {
+        "question": "html document have an extension ____",
+        "options": [
+            {"option": "a", "text": ".htx or .htxl"},
+            {"option": "b", "text": ".htm or .html"},
+            {"option": "c", "text": ".hmt or hmtl"},
+            {"option": "d", "text": "none of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! HTML documents have an extension '.htm or .html'.",
+        "description_incorrect": "That's incorrect. The correct answer is '.htm or .html'. HTML documents have an extension '.htm or .html'."
+    },
+    {
+        "question": "The ___ element can be used to identify your HTML file to the outside world",
+        "options": [
+            {"option": "a", "text": "title"},
+            {"option": "b", "text": "body"},
+            {"option": "c", "text": "head"},
+            {"option": "d", "text": "none of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! title elements can be used to identify your HTML file to the outside world.",
+        "description_incorrect": "That's incorrect. The correct answer is 'title'. title elements can be used to identify your HTML file to the outside world."
+    },
+    {
+        "question": "Which HTML tag is used to define an abbreviation or an acronym?",
+        "options": [
+            {"option": "a", "text": "<abbreviation>"},
+            {"option": "b", "text": "<abbr>"},
+            {"option": "c", "text": "<acronym>"},
+            {"option": "d", "text": "<acr>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Correct! The HTML tag <abbr> is used to define an abbreviation or an acronym.",
+        "description_incorrect": "That's not correct. The answer is B) <abbr>, which is used to define an abbreviation or an acronym."
+    },
+    {
+        "question": "What is the correct HTML syntax of <abbr> tag?",
+        "options": [
+            {"option": "a", "text": "<abbr title=\"abbreviation or acronym\">Text</abbr>"},
+            {"option": "b", "text": "<abbr description=\"abbreviation or acronym\">Text</abbr>"},
+            {"option": "c", "text": "<abbr abbreviation=\"abbreviation or acronym\">Text</abbr>"},
+            {"option": "d", "text": "<abbr acronym=\"abbreviation or acronym\">Text</abbr>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Exactly! The correct HTML syntax of <abbr> tag is <abbr title=\"abbreviation or acronym\">Text</abbr>.",
+        "description_incorrect": "Not quite right. The correct answer is A) <abbr title=\"abbreviation or acronym\">Text</abbr>."
+    },
+    {
+        "question": "What HTML tag is used to define the contact information for the author/owner of a document or an article?",
+        "options": [
+            {"option": "a", "text": "<contact>"},
+            {"option": "b", "text": "<authorinfo>"},
+            {"option": "c", "text": "<address>"},
+            {"option": "d", "text": "<addr>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Well done! The HTML tag <address> is used to define the contact information for the author/owner of a document or an article.",
+        "description_incorrect": "That's not correct. The answer is C) <address>, which is used to define the contact information for the author/owner of a document or an article."
+    },
+    {
+        "question": "Which tag is used to override the current text direction?",
+        "options": [
+            {"option": "a", "text": "<bdi>"},
+            {"option": "b", "text": "<bdo>"},
+            {"option": "c", "text": "<bdr>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Great job! The HTML tag <bdo> is used to override the current text direction.",
+        "description_incorrect": "Not quite right. The correct answer is B) <bdo>, which is used to override the current text direction."
+    },
+    {
+        "question": "Which HTML tag is used to define a hyperlink?",
+        "options": [
+            {"option": "a", "text": "<a>"},
+            {"option": "b", "text": "<h>"},
+            {"option": "c", "text": "<hyperlink>"},
+            {"option": "d", "text": "Both A. and B."}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML <a> tag defines a hyperlink.",
+        "description_incorrect": "That's not correct. The answer is A) <a>, which defines a hyperlink."
+    },
+    {
+        "question": "Which is the correct syntax of <a> tag?",
+        "options": [
+            {"option": "a", "text": "<a src=\"url\">link text</a>"},
+            {"option": "b", "text": "<a link=\"url\">link text</a>"},
+            {"option": "c", "text": "<a href=\"url\">link text</a>"},
+            {"option": "d", "text": "<a srclink=\"url\">link text</a>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Exactly! The correct syntax of <a> tag is <a href=\"url\">link text</a>.",
+        "description_incorrect": "Not quite right. The correct answer is C) <a href=\"url\">link text</a>."
+    },
+    {
+        "question": "Why \"href\" attribute is used with <a> tag?",
+        "options": [
+            {"option": "a", "text": "To define title text"},
+            {"option": "b", "text": "To define reference of a document"},
+            {"option": "c", "text": "To define destination URL"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Well done! The \"href\" attribute of the <a> tag is used to define the destination URL.",
+        "description_incorrect": "Not quite right. The answer is C) To define destination URL, which is why the \"href\" attribute is used with <a> tag."
+    },
+    {
+        "question": "Which tag is used to embed an image in an HTML document?",
+        "options": [
+            {"option": "a", "text": "<img>"},
+            {"option": "b", "text": "<pic>"},
+            {"option": "c", "text": "<image>"},
+            {"option": "d", "text": "<picture>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML tag <img> is used to embed an image in an HTML document.",
+        "description_incorrect": "That's not correct. The answer is A) <img>, which is used to embed an image in an HTML document."
+    },
+    {
+        "question": "What is the correct syntax of <img> tag?",
+        "options": [
+            {"option": "a", "text": "<img src=\"url\">"},
+            {"option": "b", "text": "<img src=\"url\" alt=\"alternatetext\">"},
+            {"option": "c", "text": "<img src=\"url\" alt=\"alternatetext\" />"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Exactly! The correct syntax of <img> tag can be either <img src=\"url\"> or <img src=\"url\" alt=\"alternatetext\"> or <img src=\"url\" alt=\"alternatetext\" />.",
+        "description_incorrect": "Not quite right. The correct answer is D) All of the above, as all these syntax variations are valid for the <img> tag."
+    },
+    {
+        "question": "Which tag is used to define marked or highlighted text?",
+        "options": [
+            {"option": "a", "text": "<mark>"},
+            {"option": "b", "text": "<highlight>"},
+            {"option": "c", "text": "<m>"},
+            {"option": "d", "text": "<highlighted>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Well done! The HTML tag <mark> is used to define marked or highlighted text.",
+        "description_incorrect": "That's not correct. The answer is A) <mark>, which is used to define marked or highlighted text."
+    },
+    {
+        "question": "Which attribute specifies the path to the image?",
+        "options": [
+            {"option": "a", "text": "href"},
+            {"option": "b", "text": "link"},
+            {"option": "c", "text": "src"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Correct! The src attribute specifies the path to the image.",
+        "description_incorrect": "That's not correct. The answer is C) src, which specifies the path to the image."
+    },
+    {
+        "question": "Which attribute specifies an alternate text for the image?",
+        "options": [
+            {"option": "a", "text": "alt"},
+            {"option": "b", "text": "alternate"},
+            {"option": "c", "text": "alttext"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Well done! The alt attribute specifies an alternate text for the image.",
+        "description_incorrect": "Not quite right. The correct answer is A) alt, which specifies an alternate text for the image."
+    },
+    {
+        "question": "Which HTML tag is used to define a table?",
+        "options": [
+            {"option": "a", "text": "<table>"},
+            {"option": "b", "text": "<tables>"},
+            {"option": "c", "text": "<tr>"},
+            {"option": "d", "text": "<th>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML tag <table> is used to define a table.",
+        "description_incorrect": "That's not correct. The answer is A) <table>, which is used to define a table."
+    },
+    {
+        "question": "Each table cell is defined by a ____ tag.",
+        "options": [
+            {"option": "a", "text": "<cell> ... </cell>"},
+            {"option": "b", "text": "<tr> ... </tr>"},
+            {"option": "c", "text": "<th> ... </th>"},
+            {"option": "d", "text": "<td> ... </td>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Great job! Each table cell is defined by a <td> ... </td> tag.",
+        "description_incorrect": "Not quite right. The correct answer is D) <td> ... </td>, which defines each table cell."
+    },
+    {
+        "question": "Each table row is defined by a ____ tag.",
+        "options": [
+            {"option": "a", "text": "<cell> ... </cell>"},
+            {"option": "b", "text": "<tr> ... </tr>"},
+            {"option": "c", "text": "<th> ... </th>"},
+            {"option": "d", "text": "<td> ... </td>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Well done! Each table row is defined by a <tr> ... </tr> tag.",
+        "description_incorrect": "That's not correct. The answer is B) <tr> ... </tr>, which defines each table row."
+    },
+    {
+        "question": "Each table header is defined by a ____ tag.",
+        "options": [
+            {"option": "a", "text": "<cell> ... </cell>"},
+            {"option": "b", "text": "<tr> ... </tr>"},
+            {"option": "c", "text": "<th> ... </th>"},
+            {"option": "d", "text": "<td> ... </td>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Exactly! Each table header is defined by a <th> ... </th> tag.",
+        "description_incorrect": "Not quite right. The correct answer is C) <th> ... </th>, which defines each table header."
+    },
+    {
+        "question": "Which tag is used to define ordered listing?",
+        "options": [
+            {"option": "a", "text": "<ol> ... </ol>"},
+            {"option": "b", "text": "<ul> ... </ul>"},
+            {"option": "c", "text": "<list> ... </list>"},
+            {"option": "d", "text": "<li> ... </li>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML tag <ol> ... </ol> is used to define ordered listing.",
+        "description_incorrect": "That's not correct. The answer is A) <ol> ... </ol>, which defines ordered listing."
+    },
+    {
+        "question": "Which tag is used to define unordered listing?",
+        "options": [
+            {"option": "a", "text": "<ol> ... </ol>"},
+            {"option": "b", "text": "<ul> ... </ul>"},
+            {"option": "c", "text": "<list> ... </list>"},
+            {"option": "d", "text": "<li> ... </li>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Great job! The HTML tag <ul> ... </ul> is used to define unordered listing.",
+        "description_incorrect": "Not quite right. The answer is B) <ul> ... </ul>, which defines unordered listing."
+    },
+    {
+        "question": "Which tag is used to define list items?",
+        "options": [
+            {"option": "a", "text": "<ol> ... </ol>"},
+            {"option": "b", "text": "<ul> ... </ul>"},
+            {"option": "c", "text": "<list> ... </list>"},
+            {"option": "d", "text": "<li> ... </li>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Well done! The HTML tag <li> ... </li> is used to define list items.",
+        "description_incorrect": "That's not correct. The answer is D) <li> ... </li>, which defines list items."
+    },
+    {
+        "question": "Which tag is used to define description lists?",
+        "options": [
+            {"option": "a", "text": "<dl> ... </dl>"},
+            {"option": "b", "text": "<dd> ... </dd>"},
+            {"option": "c", "text": "<dlist> ... </dlist>"},
+            {"option": "d", "text": "<check> ... </check>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Exactly! The HTML tag <dl> ... </dl> is used to define description lists.",
+        "description_incorrect": "That's not correct. The answer is A) <dl> ... </dl>, which defines description lists."
+    }
+
+
+
+    
+    
+    
+]

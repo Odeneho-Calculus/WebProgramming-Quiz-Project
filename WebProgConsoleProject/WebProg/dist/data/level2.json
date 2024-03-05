@@ -1,0 +1,480 @@
+[
+    {
+        "question": "CGI stands for",
+        "options": [
+            {"option": "a", "text": "Command Gate Interface"},
+            {"option": "b", "text": "Common Gateway Interface"},
+            {"option": "c", "text": "Common Gate input"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! CGI stands for 'Common Gateway Interface'.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Common Gateway Interface'. CGI stands for 'Common Gateway Interface'."
+    },
+    {
+        "question": "Which of the following is true",
+        "options": [
+            {"option": "a", "text": "In tables, header cells are centered by default and the data cells are right-aligned."},
+            {"option": "b", "text": "In the case of character formatting, the tag <TW> is used for typewriter-like text."},
+            {"option": "c", "text": "Unordered list starts with <UL> and ends with <UL>."},
+            {"option": "d", "text": "<SUPR> tag is used for superscripts text."}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! Unordered lists in HTML start with <UL> and end with </UL>.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Unordered list starts with <UL> and ends with </UL>.' Unordered lists are defined with the <UL> tag and closed with </UL>."
+    },
+    {
+        "question": "Which of the following is true?",
+        "options": [
+            {"option": "a", "text": "BR tag is used to have a blank line"},
+            {"option": "b", "text": "In tables, the header cell is centered by default and the data cells are right-aligned"},
+            {"option": "c", "text": "The <TR> is used to create a data cell"},
+            {"option": "d", "text": "INPUT tag must have at least 4 attributes"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The BR tag is used to insert a line break, creating a blank line.",
+        "description_incorrect": "That's incorrect. The correct answer is 'BR tag is used to have a blank line.' The BR tag is used to insert a line break, creating a blank line."
+    },
+    {
+        "question": "Example for a bitmap application is",
+        "options": [
+            {"option": "a", "text": "MS paint"},
+            {"option": "b", "text": "Photoshop"},
+            {"option": "c", "text": "Sound recorder"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! An example of a bitmap application is 'MS paint'.",
+        "description_incorrect": "That's incorrect. The correct answer is 'MS paint'. MS paint is an example of a bitmap application."
+    },
+    {
+        "question": "The ideal rate for animation is",
+        "options": [
+            {"option": "a", "text": "30 Frames/second"},
+            {"option": "b", "text": "20 Frames/second"},
+            {"option": "c", "text": "40 Frames/second"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! The ideal rate for animation is typically 30 frames per second (30 FPS).",
+        "description_incorrect": "That's incorrect. The correct answer is '30 Frames/second.' The ideal rate for animation is typically 30 frames per second (30 FPS)."
+    },
+    {
+        "question": "The symbol that identifies that HREF attribute as the name of a NAME anchor rather than an address or filename is",
+        "options": [
+            {"option": "a", "text": "&"},
+            {"option": "b", "text": "$"},
+            {"option": "c", "text": "#"},
+            {"option": "d", "text": "!"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The symbol '#' identifies the HREF attribute as the name of a NAME anchor.",
+        "description_incorrect": "That's incorrect. The correct answer is '#' The symbol '#' identifies the HREF attribute as the name of a NAME anchor rather than an address or filename."
+    },
+    {
+        "question": "The purpose of markup is to",
+        "options": [
+            {"option": "a", "text": "Add hypertext capabilities"},
+            {"option": "b", "text": "Enhance the document"},
+            {"option": "c", "text": "Both a) & b)"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The purpose of markup is to both add hypertext capabilities and enhance the document.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Both a) & b).' The purpose of markup is to both add hypertext capabilities and enhance the document."
+    },
+    {
+        "question": "To get the ordered list we use",
+        "options": [
+            {"option": "a", "text": "<HI>"},
+            {"option": "b", "text": "<UL>"},
+            {"option": "c", "text": "<OL>"},
+            {"option": "d", "text": "<ML>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! To create an ordered list, we use the <OL> tag.",
+        "description_incorrect": "That's incorrect. The correct answer is '<OL>'. To create an ordered list, we use the <OL> tag."
+    },
+    {
+        "question": "HTML is the method where ordinary text can be converted into",
+        "options": [
+            {"option": "a", "text": "ASCII Text"},
+            {"option": "b", "text": "EBCDIC Text"},
+            {"option": "c", "text": "Hypertext"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! HTML is a method where ordinary text can be converted into hypertext.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Hypertext.' HTML is a method where ordinary text can be converted into hypertext."
+    },
+    {
+        "question": "OLE stands for",
+        "options": [
+            {"option": "a", "text": "Object-level embedding"},
+            {"option": "b", "text": "Object linking and embedding"},
+            {"option": "c", "text": "Object-level extraction"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! OLE stands for 'Object linking and embedding.'",
+        "description_incorrect": "That's incorrect. The correct answer is 'Object linking and embedding.' OLE stands for 'Object linking and embedding.'"
+    },
+    {
+        "question": "Example of picture editing software is",
+        "options": [
+            {"option": "a", "text": "MS paint"},
+            {"option": "b", "text": "Photoshop"},
+            {"option": "c", "text": "Sound recorder"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! An example of picture editing software is 'Photoshop'.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Photoshop'. Photoshop is an example of picture editing software."
+    },
+    {
+        "question": "Which of the following tags do not require a terminator?",
+        "options": [
+            {"option": "a", "text": "<U>"},
+            {"option": "b", "text": "<BR>"},
+            {"option": "c", "text": "<B>"},
+            {"option": "d", "text": "None of above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <BR> tag does not require a terminator.",
+        "description_incorrect": "That's incorrect. The correct answer is '<BR>'. The <BR> tag does not require a terminator."
+    },
+    {
+        "question": "The tag to give visual division between sections of the page and which causes the browser to draw an embossed line is",
+        "options": [
+            {"option": "a", "text": "<HL>"},
+            {"option": "b", "text": "<HR>"},
+            {"option": "c", "text": "<UR>"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "b",
+        "description_correct": "That's correct! The <HR> tag is used to create a horizontal rule, giving a visual division between sections of the page and causing the browser to draw an embossed line.",
+        "description_incorrect": "That's incorrect. The correct answer is '<HR>'. The <HR> tag is used to create a horizontal rule, giving a visual division between sections of the page and causing the browser to draw an embossed line."
+    },
+    {
+        "question": "Which one of the following tags is used to insert graphics on the web page?",
+        "options": [
+            {"option": "a", "text": "<IMAGE>"},
+            {"option": "b", "text": "<IMAGES>"},
+            {"option": "c", "text": "<IMG>"},
+            {"option": "d", "text": "<GRAPHICS>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The <IMG> tag is used to insert graphics on a web page.",
+        "description_incorrect": "That's incorrect. The correct answer is '<IMG>'. The <IMG> tag is used to insert graphics on a web page."
+    },
+    {
+        "question": "In HTML ____ tag contains the information about the current document such as title etc.",
+        "options": [
+            {"option": "a", "text": "Body"},
+            {"option": "b", "text": "TD"},
+            {"option": "c", "text": "HEAD"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! In HTML, the <HEAD> tag contains information about the current document, such as the title.",
+        "description_incorrect": "That's incorrect. The correct answer is '<HEAD>'. In HTML, the <HEAD> tag contains information about the current document, such as the title."
+    },
+    {
+        "question": "Which of the following is false?",
+        "options": [
+            {"option": "a", "text": "TYPE and NAME are the attributes of the INPUT tag"},
+            {"option": "b", "text": "SRC is a must if INPUT TYPE is image"},
+            {"option": "c", "text": "POST allows the content of the forms to be passed one element at a time"},
+            {"option": "d", "text": "GET allows accepting one element at a time"}
+        ],
+        "correct_option": "d",
+        "description_correct": "That's correct! The statement 'GET allows accepting one element at a time' is false. GET and POST both allow the content of forms to be passed, but GET passes data in the URL, while POST passes data in the request body.",
+        "description_incorrect": "That's incorrect. The statement 'GET allows accepting one element at a time' is false. GET and POST both allow the content of forms to be passed, but GET passes data in the URL, while POST passes data in the request body."
+    },
+    {
+        "question": "The components of multimedia are",
+        "options": [
+            {"option": "a", "text": "Text, pictures, video, sound"},
+            {"option": "b", "text": "Text, pictures, animation"},
+            {"option": "c", "text": "Text, pictures, video, animation, sound"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The components of multimedia include text, pictures, video, animation, and sound.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Text, pictures, video, animation, sound.' The components of multimedia include text, pictures, video, animation, and sound."
+    },
+    {
+        "question": "Which of the following is NOT a sound property",
+        "options": [
+            {"option": "a", "text": "Asterisk"},
+            {"option": "b", "text": "Critical stop"},
+            {"option": "c", "text": "Default beep"},
+            {"option": "d", "text": "Frame grabber"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! 'Default beep' is not a sound property.",
+        "description_incorrect": "That's incorrect. The correct answer is 'Default beep.' It is not a sound property."
+    },
+    {
+        "question": "If you want to allow playing music on your web page with Internet Explorer; will not work with people browsing with Netscape.",
+        "options": [
+            {"option": "a", "text": "<BGSOUND SRC=sounds.wav loop=infinite>"},
+            {"option": "b", "text": "<Bgsound = abc.wav loop =infinite>"},
+            {"option": "c", "text": "<background sound= sound.wav loop= infinite >"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "That's correct! To allow playing music on your web page with Internet Explorer (but not with Netscape), you can use the <BGSOUND> tag with attributes like SRC and loop.",
+        "description_incorrect": "That's incorrect. The correct answer is '<BGSOUND SRC=sounds.wav loop=infinite>'. It allows playing music on your web page with Internet Explorer (but not with Netscape) using the <BGSOUND> tag with attributes like SRC and loop."
+    },
+    {
+        "question": "The application of creative mixer is",
+        "options": [
+            {"option": "a", "text": "To control only the output of the audio signal"},
+            {"option": "b", "text": "To control only the input of the audio signal"},
+            {"option": "c", "text": "To control both input and output of the audio signal"},
+            {"option": "d", "text": "None of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "That's correct! The application of a creative mixer is to control both the input and output of the audio signal.",
+        "description_incorrect": "That's incorrect. The correct answer is 'To control both input and output of the audio signal.' The application of a creative mixer is to control both the input and output of the audio signal."
+    },
+    {
+        "question": "Which HTML tag is used to define marked or highlighted text?",
+        "options": [
+            {"option": "a", "text": "<mark>"},
+            {"option": "b", "text": "<highlight>"},
+            {"option": "c", "text": "<m>"},
+            {"option": "d", "text": "<highlighted>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML tag <mark> is used to define marked or highlighted text.",
+        "description_incorrect": "Incorrect. The correct answer is A) <mark>, which is used to define marked or highlighted text."
+    },
+    {
+        "question": "Which HTML tag is used to define strike a line through deleted text?",
+        "options": [
+            {"option": "a", "text": "<delete>"},
+            {"option": "b", "text": "<del>"},
+            {"option": "c", "text": "<deleted>"},
+            {"option": "d", "text": "<through>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Well done! The HTML tag <del> is used to define a strike-through deleted text.",
+        "description_incorrect": "That's not correct. The answer is B) <del>, which is used to define a strike-through deleted text."
+    },
+    {
+        "question": "Which HTML tag is used to define underline inserted text?",
+        "options": [
+            {"option": "a", "text": "<underline>"},
+            {"option": "b", "text": "<text-decoration>"},
+            {"option": "c", "text": "<u>"},
+            {"option": "d", "text": "<ins>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Great job! The HTML tag <ins> is used to define underline inserted text.",
+        "description_incorrect": "Oops, that's not correct. The answer is D) <ins>, which is used to define underline inserted text."
+    },
+    {
+        "question": "Which HTML tag is used to define subscript text?",
+        "options": [
+            {"option": "a", "text": "<sub>"},
+            {"option": "b", "text": "<subscript>"},
+            {"option": "c", "text": "<s>"},
+            {"option": "d", "text": "<subscripted>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML <sub> tag is used to define subscript text.",
+        "description_incorrect": "That's not right. The answer is A) <sub>, which is used to define subscript text."
+    },
+    {
+        "question": "Which HTML tag is used to define superscript text?",
+        "options": [
+            {"option": "a", "text": "<sup>"},
+            {"option": "b", "text": "<superscript>"},
+            {"option": "c", "text": "<s>"},
+            {"option": "d", "text": "<superscripted>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML <sup> tag is used to define superscript text.",
+        "description_incorrect": "That's not correct. The answer is A) <sup>, which is used to define superscript text."
+    },
+    {
+        "question": "Which is the correct HTML statement to display H2O in a paragraph?",
+        "options": [
+            {"option": "a", "text": "<p>H<sup>2</sup>O</p>"},
+            {"option": "b", "text": "<p>H<ins>2</ins>O</p>"},
+            {"option": "c", "text": "<p>H<below>2</below>O</p>"},
+            {"option": "d", "text": "<p>H<sub>2</sub>O</p>"}
+        ],
+        "correct_option": "d",
+        "description_correct": "The correct HTML statement to display H2O in a paragraph is: <p>H<sub>2</sub>O</p>",
+        "description_incorrect": "That's not correct. The answer is D) <p>H<sub>2</sub>O</p>, which displays H2O in a paragraph."
+    },
+    {
+        "question": "Which is the correct HTML statement to display HelloWorld in a paragraph?",
+        "options": [
+            {"option": "a", "text": "<p>Hello<sup>World</sup></p>"},
+            {"option": "b", "text": "<p>Hello<top>World</top></p>"},
+            {"option": "c", "text": "<p>Hello<sub>World</sub></p>"},
+            {"option": "d", "text": "<p>Hello<above>World</above></p>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "The correct HTML statement to display HelloWorld in a paragraph is: <p>Hello<sup>World</sup></p>",
+        "description_incorrect": "That's not correct. The answer is A) <p>Hello<sup>World</sup></p>, which displays HelloWorld in a paragraph."
+    },
+    {
+        "question": "Which is the correct HTML statement to display HelloHi! in a paragraph?",
+        "options": [
+            {"option": "a", "text": "<p><del>Hello</del><ins>Hi!</ins></p>"},
+            {"option": "b", "text": "<p><strike>Hello</strike><ins>Hi!</ins></p>"},
+            {"option": "c", "text": "<p><cut>Hello</cut><ins>Hi!</ins></p>"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "a",
+        "description_correct": "The correct HTML statement to display HelloHi! in a paragraph is/are: <p><del>Hello</del><ins>Hi!</ins></p> <p><strike>Hello</strike><ins>Hi!</ins></p>",
+        "description_incorrect": "Not quite right. The correct answer is A) <p><del>Hello</del><ins>Hi!</ins></p>, which displays HelloHi! in a paragraph."
+    },
+    {
+        "question": "Which is the correct HTML statement to display Hello IncludeHelp in a paragraph?",
+        "options": [
+            {"option": "a", "text": "<p>Hello <mark>IncludeHelp</mark></p>"},
+            {"option": "b", "text": "<p>Hello<mark>IncludeHelp</mark></p>"},
+            {"option": "c", "text": "<p>Hello <span>IncludeHelp</span></p>"},
+            {"option": "d", "text": "<p>Hello<span>IncludeHelp</span></p>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "The correct HTML statement to display Hello IncludeHelp in a paragraph is: <p>Hello<mark>IncludeHelp</mark></p>",
+        "description_incorrect": "That's not correct. The answer is B) <p>Hello<mark>IncludeHelp</mark></p>, which displays Hello IncludeHelp in a paragraph."
+    },
+    {
+        "question": "Which HTML tag is used to define a short quotation?",
+        "options": [
+            {"option": "a", "text": "<quotation>"},
+            {"option": "b", "text": "<quote>"},
+            {"option": "c", "text": "<qut>"},
+            {"option": "d", "text": "<q>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Well done! The HTML tag <quote> is used to define a short quotation.",
+        "description_incorrect": "Not quite right. The correct answer is B) <quote>, which is used to define a short quotation."
+    },
+    {
+        "question": "Which tag is a block-level element?",
+        "options": [
+            {"option": "a", "text": "<block> ... </block>"},
+            {"option": "b", "text": "<b> ... </b>"},
+            {"option": "c", "text": "<div> ... </div>"},
+            {"option": "d", "text": "<divx> ... </divx>"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Correct! The HTML tag <div> ... </div> is a block-level element.",
+        "description_incorrect": "That's not correct. The answer is C) <div> ... </div>, which is a block-level element."
+    },
+    {
+        "question": "Which attribute is often used to point to a class name in a style sheet?",
+        "options": [
+            {"option": "a", "text": "style"},
+            {"option": "b", "text": "css"},
+            {"option": "c", "text": "src"},
+            {"option": "d", "text": "class"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Well done! The class attribute is often used to point to a class name in a style sheet.",
+        "description_incorrect": "Not quite right. The correct answer is D) class, which is often used to point to a class name in a style sheet."
+    },
+    {
+        "question": "Which attribute is used to specify a unique id for an HTML element?",
+        "options": [
+            {"option": "a", "text": "style"},
+            {"option": "b", "text": "css"},
+            {"option": "c", "text": "id"},
+            {"option": "d", "text": "class"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Exactly! The HTML id attribute is used to specify a unique id for an HTML element.",
+        "description_incorrect": "That's not correct. The answer is C) id, which is used to specify a unique id for an HTML element."
+    },
+    {
+        "question": "Can we use class name with multiple HTML elements?",
+        "options": [
+            {"option": "a", "text": "Yes"},
+            {"option": "b", "text": "No"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Great job! Yes, we can use class name with multiple HTML elements.",
+        "description_incorrect": "That's not correct. The answer is A) Yes, you can use class name with multiple HTML elements."
+    },
+    {
+        "question": "Can we use id attribute with multiple HTML elements?",
+        "options": [
+            {"option": "a", "text": "Yes"},
+            {"option": "b", "text": "No"}
+        ],
+        "correct_option": "b",
+        "description_correct": "You got it right! No, you cannot use id attribute with multiple HTML elements.",
+        "description_incorrect": "Not quite right. The answer is B) No, you cannot use id attribute with multiple HTML elements."
+    },
+    {
+        "question": "Which tag specifies an inline frame?",
+        "options": [
+            {"option": "a", "text": "<frame> ... </frame>"},
+            {"option": "b", "text": "<iframe> ... </iframe>"},
+            {"option": "c", "text": "<inlineframe> ... </inlineframe>"},
+            {"option": "d", "text": "<frames> ... </frames>"}
+        ],
+        "correct_option": "b",
+        "description_correct": "Correct! The HTML tag <iframe> specifies an inline frame.",
+        "description_incorrect": "That's not correct. The answer is B) <iframe> ... </iframe>, which specifies an inline frame."
+    },
+    {
+        "question": "What is the correct syntax for <iframe> tag?",
+        "options": [
+            {"option": "a", "text": "<iframe href=\"url\" title=\"description\"></iframe>"},
+            {"option": "b", "text": "<iframe link=\"url\" title=\"description\"></iframe>"},
+            {"option": "c", "text": "<iframe src=\"url\" title=\"description\"></iframe>"},
+            {"option": "d", "text": "All of the above"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Well done! The correct syntax for <iframe> tag is <iframe src=\"url\" title=\"description\"></iframe>.",
+        "description_incorrect": "Not quite right. The answer is C) <iframe src=\"url\" title=\"description\"></iframe>, which is the correct syntax for <iframe> tag."
+    },
+    {
+        "question": "Which tag is used to create an HTML form for user input?",
+        "options": [
+            {"option": "a", "text": "<form>"},
+            {"option": "b", "text": "<input>"},
+            {"option": "c", "text": "<form_put>"},
+            {"option": "d", "text": "<form_get>"}
+        ],
+        "correct_option": "a",
+        "description_correct": "Correct! The HTML tag <form> is used to create an HTML form for user input.",
+        "description_incorrect": "That's not correct. The answer is A) <form>, which is used to create an HTML form for user input."
+    },
+    {
+        "question": "Which tag is used to display a single-line text input field?",
+        "options": [
+            {"option": "a", "text": "<input type=\"textbox\">"},
+            {"option": "b", "text": "<input type=\"checkbox\">"},
+            {"option": "c", "text": "<input type=\"text\">"},
+            {"option": "d", "text": "<input type=\"submit\">"}
+        ],
+        "correct_option": "c",
+        "description_correct": "Exactly! The HTML tag <input type=\"text\"> is used to display a single-line input field.",
+        "description_incorrect": "That's not correct. The answer is C) <input type=\"text\">, which is used to display a single-line input field."
+    },
+    {
+        "question": "Which tag is used to display a radio button?",
+        "options": [
+            {"option": "a", "text": "<input type=\"textbox\">"},
+            {"option": "b", "text": "<input type=\"checkbox\">"},
+            {"option": "c", "text": "<input type=\"text\">"},
+            {"option": "d", "text": "<input type=\"radio\">"}
+        ],
+        "correct_option": "d",
+        "description_correct": "Correct! The HTML tag <input type=\"radio\"> is used to display a radio button.",
+        "description_incorrect": "That's not correct. The answer is D) <input type=\"radio\">, which is used to display a radio button."
+    }
+
+    
+]
